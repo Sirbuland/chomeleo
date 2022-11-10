@@ -6,6 +6,7 @@ import {
   Image,
   Platform,
   StyleSheet,
+  ScrollView
 } from 'react-native';
 import FormInput from '../components/FormInput';
 import FormButton from '../components/FormButton';
